@@ -14,7 +14,7 @@ Features
 - Export your playlist or music and copy it to your device (Smartphone, USB Key)
 - Listen internet radio
 - Listen your music through the cloud
-- Suggest artists related to your personnal tastes
+- Suggest artists related to your personal tastes
 - Equalizer
 - Spotify and deezer integration
 - Share a sample to your friends through LimoNet ( A small message system )
