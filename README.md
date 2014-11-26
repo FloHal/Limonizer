@@ -16,7 +16,7 @@ Features
 - Listen your music through the cloud
 - Suggest artists related to your personal tastes
 - Equalizer
-- Spotify and deezer integration
+- Spotify, deezer and YouTube integration
 - Share a sample to your friends through LimoNet ( A small message system )
 - Control Limonizer with your smartphone (play, pause, next, previous, volume)
 
